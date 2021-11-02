@@ -1,0 +1,11 @@
+:root {
+  --fp-color-main: #474dfb;
+  --fp-color-white: #fff;
+  --fp-color-dark: #2b2b34;
+  --fp-color-black: #000;
+  --fp-color-gray: #71717a;
+  --fp-color-lightgray: #8787a2;
+  --fp-color-darkwhite: #F4F7F9;
+  --fp-font-content: 'Inter', sans-serif;
+  --fp-font-nav: 'Arial', sans-serif;
+}
